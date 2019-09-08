@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # New York City Green Taxi Data Analysis
 
